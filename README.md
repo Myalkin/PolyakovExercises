@@ -1,1 +1,1 @@
-# PolyakovExercises
+# Python Exercises
